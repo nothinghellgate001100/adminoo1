@@ -1,0 +1,19 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  text-align: center;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.btn-action {
+  margin-right: 5px;
+}
